@@ -19,6 +19,11 @@ https://medium.com/python-pandemonium/building-robust-rabbitmq-consumers-with-py
 
 https://github.com/Skablam/kombu-examples
 
+
+##### Federation
+
+https://medium.com/trendyol-tech/rabbitmq-federation-plugin-cb87f7450365
+
 ##### Summit
 
 https://www.youtube.com/watch?v=ez9kQEhHsnc
