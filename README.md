@@ -22,3 +22,13 @@ https://github.com/Skablam/kombu-examples
 ##### Summit
 
 https://www.youtube.com/watch?v=ez9kQEhHsnc
+
+##### Other
+
+https://www.rabbitmq.com/resources/specs/amqp0-9-1.pdf
+
+https://www.rabbitmq.com/heartbeats.html
+
+https://www.rabbitmq.com/networking.html
+
+https://www.rabbitmq.com/configure.html
